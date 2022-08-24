@@ -81,12 +81,3 @@ def ugadai_slovo():
               game_over_msg)
 
 ugadai_slovo()
-
-
-
-
-
-
-#for i in stages:
-#    print(i)
-#print (game_over_msg)
